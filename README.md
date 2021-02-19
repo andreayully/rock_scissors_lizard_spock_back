@@ -40,7 +40,7 @@ http://localhost:8000/swagger/
 http://localhost:8000/redoc/
 
 ### Postman collection  
-https://www.getpostman.com/collections/e906d12b4a8b920615f7  
+https://www.getpostman.com/collections/e906d12b4a8b920615f7
 
 ### Feature
 * Django 3.1.5
